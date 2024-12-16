@@ -1,9 +1,9 @@
 branch-defaults:
   default:
-    environment: null
+    environment: eb-app-pro4-dev
     group_suffix: null
 global:
-  application_name: app-pro4-eb2
+  application_name: eb-app-pro4
   branch: null
   default_ec2_keyname: vockey
   default_platform: Node.js 18 running on 64bit Amazon Linux 2023
