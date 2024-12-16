@@ -1,4 +1,4 @@
-### Pipeline Process: GitHub and CircleCI
+# Pipeline Process: GitHub and CircleCI
 
 ## GitHub
 
